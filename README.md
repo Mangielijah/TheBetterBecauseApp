@@ -5,6 +5,6 @@ A new Flutter project.
   
 ## Screen Shots
 
-![Alt text](https://github.com/Mangielijah/TheBetterBecauseApp/blob/master/images/screen_1.png "Splash Screen"){:height="50%" width="50%"}
-![Alt text](https://github.com/Mangielijah/TheBetterBecauseApp/blob/master/images/screen_2.png "Stories Screen"){:height="50%" width="50%"}
-![Alt text](https://github.com/Mangielijah/TheBetterBecauseApp/blob/master/images/screen_3.png "Story Detail Screen"){:height="50%" width="50%"}
+![Alt text](https://github.com/Mangielijah/TheBetterBecauseApp/blob/master/images/screen_1.png "Splash Screen") <!-- .element height="100" -->
+![Alt text](https://github.com/Mangielijah/TheBetterBecauseApp/blob/master/images/screen_2.png "Stories Screen") <!-- .element height="100" -->
+![Alt text](https://github.com/Mangielijah/TheBetterBecauseApp/blob/master/images/screen_3.png "Story Detail Screen") <!-- .element height="100" -->
